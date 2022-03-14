@@ -1,0 +1,33 @@
+h1 {color:#495371; 
+    font-family: sans-serif; 
+    font-size: 50px; 
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+html { 
+    background-color:#bcddc8;
+    background-size: cover;
+}
+
+#data {
+    text-align: center;  
+    font-family: Sans-serif;
+    font-size: 20px; 
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+
+.answer {
+    text-align: center;  
+    font-family: Sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
+
+}
